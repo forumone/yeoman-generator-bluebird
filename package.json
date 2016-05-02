@@ -1,0 +1,22 @@
+{
+  "name": "yeoman-generator-bluebird",
+  "version": "0.1.0",
+  "description": "Decorates yeoman-generator with Bluebird promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forumone/yeoman-generator-bluebird.git"
+  },
+  "author": "William Hurley <whurley@forumone.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/forumone/yeoman-generator-bluebird/issues"
+  },
+  "homepage": "https://github.com/forumone/yeoman-generator-bluebird#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5"
+  }
+}
